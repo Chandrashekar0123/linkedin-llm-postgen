@@ -592,7 +592,7 @@ import requests
 
 url = "https://openrouter.ai/api/v1/chat/completions"
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Your model or api",
     "Content-Type": "application/json",
     "HTTP-Referer": "https://your-site.com",  # Optional
     "X-Title": "My Test App"  # Optional
